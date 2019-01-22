@@ -1,0 +1,48 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+##What Is Data Science    
+I consider data science to be drawing conclusions and making decisions based off of data. This means being able to prepare, organize, and clean the data in a way where **purposeful analytics** can be performed after that. This will lead to interpreatations to be made from the data to answer the desired questions. It can consist of builiding different models, or other analysis strategies. It is essentially using data to make a decision with *real-world meaning*.  [Link to Photo](https://2.bp.blogspot.com/-9ClbT21_mGM/WdZrc7agqqI/AAAAAAAADU8/6mLAq-Psu_IsB0IuTDbSrO-c7_hCKNfpACLcBGAs/s1600/main%2Bimage%2B-%2Btip%2B152.png)   
+
+##R Version 
+```{r}
+version
+```
+
+
+
+5. What is the version of your Git? To find out, go to the Terminal tab in RStudio (right to the Console tab), and type in the following command. If it works, this shows the setup of your terminal and Git is correct. Then explore the bash command-line and Git.
+
+    ```
+    git --version
+    ```
+
+```{bash}
+git --version
+```
+
+    
+6. Configure Git by modifying and entering the following commands into the terminal
+
+    ```
+    git config user.name "your first and last name"
+    git config user.email "yourEmail"
+    ```
+```{bash}
+git config --global user.name "Grant Ruedy"
+git config --global user.email "gmruedy@iastate.edu"
+git config --global --list
+```
+
+
+
+7. Register a [GitHub](https://www.github.com) account. What is your username?
+
+username = GrantRuedy
+
+
+
