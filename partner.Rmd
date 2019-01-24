@@ -1,0 +1,20 @@
+---
+title: "Partner"
+author: "Andrew Sundberg"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Andrew Sundberg
+Github Username: andrewsundberg
+
+Most Recent Commit: Adding the RMarkDown File
+Commit ID: c61348055dd7fe4cae0d9c99085e69e31ad64790
+
+Error when Knitting partner's hw1: Error in system2(cmd, code, stdout = TRUE, stderr = TRUE, env = options$enging.env) : "bash" not found Calls: <Anonymous> ... tryCatch -> tryCatchList -> tryCatchOne -> <Anonymous> Execution halted
+
+Tip: It would be easier to simply upload files in a point and click format
